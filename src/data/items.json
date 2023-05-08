@@ -1,0 +1,154 @@
+[
+    {
+      "id": 1,
+      "name": "HP Envy Business Laptop",
+      "price": 938.99,
+      "imgUrl": "/imgs/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo ThinkPad Business Laptop",
+      "price": 283,
+      "imgUrl": "/imgs/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "ASUS TUF Gaming Laptop ",
+      "price": 300,
+      "imgUrl": "/imgs/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "HP Business LaptopTouchscreen",
+      "price": 450,
+      "imgUrl": "/imgs/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Acer Aspire 5",
+      "price": 334,
+      "imgUrl": "/imgs/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dell Latitude 7430 Laptop",
+      "price": 1399,
+      "imgUrl": "/imgs/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ASUS Chromebook",
+      "price": 349,
+      "imgUrl": "/imgs/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "ASUS ZenBook Flip 13",
+      "price": 769,
+      "imgUrl": "/imgs/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Premium Dell Latitude",
+      "price": 1800,
+      "imgUrl": "/imgs/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Lenovo Legion 5",
+      "price": 1179,
+      "imgUrl": "/imgs/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Dell Latitude",
+      "price": 226,
+      "imgUrl": "/imgs/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Lenovo ThinkPad E15",
+      "price": 849,
+      "imgUrl": "/imgs/12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Samsung Chromebook 4",
+      "price": 149,
+      "imgUrl": "/imgs/13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Samsung Galaxy Chromebook 2",
+      "price": 355,
+      "imgUrl": "/imgs/14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Acer Swift 3",
+      "price": 600,
+      "imgUrl": "/imgs/15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Acer Chromebook 317",
+      "price": 399,
+      "imgUrl": "/imgs/16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Apple MacBook Air Laptop",
+      "price": 998,
+      "imgUrl": "/imgs/17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Lenovo ThinkPad",
+      "price": 1139,
+      "imgUrl": "/imgs/18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "MSI Modern 14",
+      "price": 529,
+      "imgUrl": "/imgs/19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Lenovo IdeaPad Flagship",
+      "price": 399,
+      "imgUrl": "/imgs/20.jpg"
+    },
+    {
+      "id": 21,
+      "name": "ASUS ROG Strix",
+      "price": 1329,
+      "imgUrl": "/imgs/21.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Dell Inspiron 16",
+      "price": 749,
+      "imgUrl": "/imgs/22.jpg"
+    },
+    {
+      "id": 23,
+      "name": "HP EliteBook 650",
+      "price": 1049,
+      "imgUrl": "/imgs/23.jpg"
+    },
+    {
+      "id": 24,
+      "name": "HP OMEN 15-dh1054nr ",
+      "price": 1149,
+      "imgUrl": "/imgs/24.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Acer Aspire 5",
+      "price": 799,
+      "imgUrl": "/imgs/25.jpg"
+    }
+    
+  ]
+  

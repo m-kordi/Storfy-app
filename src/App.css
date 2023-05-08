@@ -1,0 +1,94 @@
+.bk{
+    background: linear-gradient(250deg, #7b2ff7, #f107a3);
+}
+
+.yoshi a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.s-con{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.s-icon{
+    color: #00FF6C;
+}
+
+/* start scroll bar */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: #f6f6f6;
+    box-shadow: 0 0 10px #ddd inset;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(250deg, #7b2ff7, #f107a3);
+    border-radius: 20px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(250deg, #7b2ff7, #f107a3);
+  }
+  /* end scroll bar */
+
+  /* Form */
+  .con-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .col-form{
+    display: grid;
+    grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));
+    gap: 29px;
+  }
+
+  .col-form input {
+    width: 1fr;
+    height: 4rem;
+    border: none;
+    border-radius: 1rem;
+    font-size: 1.4rem;
+    padding-left: 1.4rem;
+    box-shadow: inset 6px 6px 10px 0 rgba(0, 0, 0, 0.2), inset -6px -6px 10px 0 rgba(255, 255, 255, 0.5);
+    background: none;
+    font-family: inherit;
+    color: white;
+  }
+
+  .col-form input::placeholder { color: gray; }
+  .col-form input:focus {  outline: none;  box-shadow:inset -6px -6px 10px 0 rgba(255, 255, 255, 0.5),6px 6px 10px 0 rgba(0, 0, 0, 0.2) ;}
+
+
+  .col-form textarea{
+    width: 1fr;
+    height: 300px;
+    border: none;
+    border-radius: 1rem;
+    font-size: 1.4rem;
+    padding-left: 1.4rem;
+    box-shadow: inset 6px 6px 10px 0 rgba(0, 0, 0, 0.2), inset -6px -6px 10px 0 rgba(255, 255, 255, 0.5);
+    background: none;
+    font-family: inherit;
+    color: white;
+    resize: none;
+  }
+
+  .col-form textarea::placeholder { color: gray; }
+  .col-form textarea:focus {  outline: none;  box-shadow:inset -6px -6px 10px 0 rgba(255, 255, 255, 0.5),6px 6px 10px 0 rgba(0, 0, 0, 0.2) ; }
+
+  .box {
+    border-radius: 1rem;
+    outline: none;
+    border: none;
+    background-color: #fd7702;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 30px;
+    
+  }

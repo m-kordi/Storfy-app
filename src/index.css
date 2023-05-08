@@ -1,0 +1,21 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-tap-highlight-color: transparent;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  outline: none;
+  margin: 0;
+  padding: 0;
+  /* border: 2px solid red; */
+
+}
+
+body{
+  background: linear-gradient(to bottom, #00AAFF, #00FF6C);
+  
+}
