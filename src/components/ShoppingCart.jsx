@@ -4,6 +4,8 @@ import { useShoppingCart } from "../context/ShoppingCartContext";
 import CartItem from "./CartItem";
 import FormatCurrency from "./FormatCurrency";
 import storeItems from "../data/items.json";
+import Mtn from "/mtn.jpg"
+import {motion} from "framer-motion"
 
 const ShoppingCart = ({ isOpen }) => {
   const { closeCart, cartItems } = useShoppingCart();
@@ -26,7 +28,10 @@ const ShoppingCart = ({ isOpen }) => {
               }, 0)
             )}
           </div>
-          <span>nnnnnnnnnnnnnnnn</span>
+          <span className="pay"><img src={Mtn} alt="#" /><motion.button
+          whileHover={{ scale: 1.2 }}
+          whileTap={{ scale: 0.9 }}
+          transition={{ type: "spring", stiffness: 400, damping: 17 }}><a target="_blank" href="https://cash.mtnsyr.com/#/">MTN cash</a></motion.button></span>
         </Stack>
       </Offcanvas.Body>
     </Offcanvas>

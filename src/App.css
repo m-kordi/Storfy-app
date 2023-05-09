@@ -92,3 +92,25 @@
     height: 30px;
     
   }
+
+.pay{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.pay button{
+  border-radius: 1rem;
+  outline: none;
+  border: none;
+  background-color: #fd7702;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  height: 30px;
+  width: 25%;
+}
+.pay button a{
+  text-decoration: none;
+  color: white;
+}
